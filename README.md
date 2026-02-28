@@ -1,5 +1,14 @@
 # Fake Minecraft Server
 
+<table>
+	<thead>
+    	<tr>
+      		<th style="text-align:center">English</th>
+      		<th style="text-align:center"><a href="README_ja.md">日本語</a></th>
+    	</tr>
+  	</thead>
+</table>
+
 A Python server that mimics a Minecraft server. It responds to ping requests and shows MOTD, version, and player info. Players cannot join.
 
 ## Requirements
